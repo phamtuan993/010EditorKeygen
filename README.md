@@ -14,3 +14,12 @@ Run project:
 ```
 cargo run -- -u "Tuấn PV"
 ```
+
+```aiexclude
+     Running `target\debug\keygen.exe -u tuanpv`
+---------------------------------------
+User Name : tuanpv
+Expiry    : 01/01/2999
+License   : 6B34-BEAC-F9D6-15AA-BB28
+---------------------------------------
+```
