@@ -6,6 +6,11 @@ Minimum Rust version 1.95
 Add to hosts file
   Linux: /etc/hosts
   Windows: C:\Windows\System32\drivers\etc\hosts
+  
+  127.0.0.1 www.sweetscape.com
 ```
-127.0.0.1 www.sweetscape.com
+
+Run project:
+```
+cargo run -- -u "Tuấn PV"
 ```
